@@ -1,0 +1,11 @@
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\bin\Debug\PRG455 PROJECT.exe.config
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\bin\Debug\PRG455 PROJECT.exe
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\bin\Debug\PRG455 PROJECT.pdb
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455 PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455_PROJECT.Form1_reserve.resources
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455_PROJECT.Properties.Resources.resources
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455 PROJECT.csproj.GenerateResource.Cache
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455 PROJECT.exe
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455 PROJECT.pdb
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455_PROJECT.Form2_purchase.resources
+C:\Users\Cary\Desktop\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455_PROJECT.Form3_receipt.resources
